@@ -5,6 +5,8 @@
 Technologies Used:
 HTML, CSS, JavaScript
 
+>Index.Html is Maine Flie in This ReactProject!
+
 Experience Gained:
 
 Front-End Development Skills: Strengthened my understanding of HTML, CSS, and JavaScript by creating a fully functional, interactive website.
