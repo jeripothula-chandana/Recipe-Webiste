@@ -3,9 +3,8 @@
 "Tradition on a Plate" is a user-friendly recipe website showcasing traditional recipes from around the world. This project emphasizes creating a visually appealing and interactive experience for users to explore and share recipes.
 
 Technologies Used:
-HTML: Developed a structured layout, ensuring semantic and accessible content.
-CSS: Designed responsive and visually engaging styles using Flexbox, Grid, and media queries.
-JavaScript: Implemented interactive features like live search, form validation, modals, and dynamic filtering.
+HTML, CSS, JavaScript
+
 Experience Gained:
 
 Front-End Development Skills: Strengthened my understanding of HTML, CSS, and JavaScript by creating a fully functional, interactive website.
