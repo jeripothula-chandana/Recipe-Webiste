@@ -5,7 +5,7 @@
 Technologies Used:
 HTML, CSS, JavaScript
 
->Index.Html is Maine Flie in This ReactProject!
+>Index.html is Maine Flie in This ReactProject!
 
 Experience Gained:
 
